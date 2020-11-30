@@ -1,0 +1,15 @@
+body {
+    margin-bottom: 0;
+}
+
+.swiper-container {
+    height: 360px;
+}
+
+.large-row-advertisement {
+    height: 60px;
+}
+
+.column-advertisement {
+    height: 250px;
+}
